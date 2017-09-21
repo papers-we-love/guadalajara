@@ -4,8 +4,11 @@ This is the repository for the Guadalajara chapter of Papers We Love. As a local
 
 ### Information
 
-{Chapter information: who, what, where, when, why}
+Next meetup
+Where: 14 September 2017, ITESM Guadalajara
 
 ### Contact
 
-{Names and contact information (twitter, email, etc) of Chapter organizers}
+Miguel Pérez García (twitter: @youmike, mail: miguelpg_95@hotmail.com, Github: @miker1423)
+Cesar Alfredo Espinosa Michel (twitter, github: @eldelcesar, mail: cesarjr.espinosa@gmail.com)
+Christopher Salvador Márquez Álvarez (github: @chrismarquez, mail: christophersmarquez@outlook.com)
